@@ -1,0 +1,7 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+edition = "2021"
+description = "Rusty bridge placeholder for VolumeGuardian"
+
+[dependencies]

@@ -1,0 +1,21 @@
+# Runtime files
+runtime/*
+!runtime/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# PowerShell temp
+*.tmp
+*.bak
+
+# Rust build output
+rusty/target/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
