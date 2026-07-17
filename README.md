@@ -129,4 +129,4 @@ For commercial licensing inquiries, please contact:
 
 GitHub: https://github.com/tcdoverlord
 
-See the [LICENSE](LICENSE) file for the complete license terms.
+See the LICENSE file for the complete license terms.
