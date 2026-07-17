@@ -1,86 +1,116 @@
-# VolumeGuardian Personal Use and Contribution License
+# 📜 TCDOVERLORD Personal Learning License (TPLL) v1.0
 
-Copyright (c) TCDOVERLORD
-
-## Plain-English Summary
-
-VolumeGuardian may be used for personal, non-commercial use.
-
-You may study it, run it on your own machine, and contribute improvements back to the project.
-
-Business, commercial, enterprise, cloud-hosted, managed-service, resale, bundled, or paid use requires written contract permission from TCDOVERLORD.
-
-This summary is for convenience only. The full terms below control.
+> **Copyright © 2026 TCDOVERLORD**  
+> **All Rights Reserved**
 
 ---
 
-## 1. Personal Use Permission
+# 🎯 Purpose
 
-Permission is granted to use, copy, and modify this software for personal, non-commercial use only.
+The **TCDOVERLORD Personal Learning License (TPLL)** was created to encourage learning, education, and technical growth while protecting the author's intellectual property from unauthorized commercial use.
 
-Personal use means use by an individual for their own devices, learning, testing, accessibility, hearing protection, or personal productivity.
-
----
-
-## 2. Contributions
-
-Contributions to the project are welcome.
-
-By submitting a contribution, you grant TCDOVERLORD the right to review, modify, include, reject, distribute, and maintain that contribution as part of the VolumeGuardian project.
-
-Contributions do not grant commercial ownership or cloud operation rights to the contributor unless separately agreed in writing.
+This license allows individuals to study, explore, modify, and learn from the source code for **personal and educational purposes**, while reserving all commercial rights for the copyright owner.
 
 ---
 
-## 3. Commercial and Business Use
+# ✅ What You CAN Do
 
-Commercial, business, enterprise, professional, government, institutional, managed-service, resale, hosted, bundled, SaaS, or cloud-based use is not permitted without written contract permission from TCDOVERLORD.
+You are welcome to:
 
-Examples requiring permission include, but are not limited to:
-
-- Use inside a company or organization
-- Use by employees for business operations
-- Use in a paid service
-- Use in a product bundle
-- Use in a managed IT toolset
-- Use in a cloud dashboard, cloud automation system, cloud service, or remote management system
-- Resale, sublicensing, or commercial redistribution
-- Use to support customer environments
+- 📖 View and study the source code
+- 💻 Download and run the software
+- 🛠️ Modify the software for personal use
+- 🎓 Learn from the project
+- 🧪 Experiment with the code
+- 🔬 Use the software in research or academic environments
+- 🍴 Create private forks for learning
+- 🔗 Share links to the official GitHub repository
 
 ---
 
-## 4. Cloud Operations
+# ❌ What You MAY NOT Do
 
-All cloud operations, hosted versions, remote management systems, commercial dashboards, cloud-connected services, and business deployments based on VolumeGuardian require written contract permission from TCDOVERLORD.
+Without prior written permission from **TCDOVERLORD**, you may **NOT**:
 
-TCDOVERLORD retains control and ownership of commercial cloud operation rights related to this project.
-
----
-
-## 5. Restrictions
-
-You may not:
-
-- Sell this software without permission
-- Rebrand this software as your own commercial product
-- Offer it as part of a paid service without permission
-- Use it in business operations without permission
-- Remove attribution to TCDOVERLORD
-- Claim ownership of the original VolumeGuardian project
-- Use this project to create unauthorized commercial cloud services
+- 💰 Sell this software
+- 📦 Sell modified versions
+- 🚫 Redistribute it commercially
+- 🏢 Use it inside a commercial business for profit
+- 🌐 Offer it as a hosted SaaS product
+- 🛒 Bundle it with commercial software
+- 📀 Repackage it for resale
+- 📝 Remove or alter this license
+- © Remove copyright notices
+- 🎭 Claim the project as your own
 
 ---
 
-## 6. No Warranty
+# 💼 Commercial Licensing
 
-This software is provided as-is.
+Commercial licensing is available separately.
 
-TCDOVERLORD makes no warranty that the software will work on every system, protect hearing in every situation, or prevent all volume-related harm.
+Examples of commercial use include:
 
-You are responsible for using safe listening levels and testing the software on your own system.
+- 🏢 Business or corporate deployment
+- 💼 Consulting projects
+- 🌐 SaaS platforms
+- 📦 Commercial software packages
+- 💵 Paid redistribution
+- 🏭 Enterprise integration
+- 🔧 Internal business tools
+
+If your intended use generates revenue or supports a commercial organization, please obtain written permission before using this software.
 
 ---
 
-## 7. Contact for Commercial Permission
+# 📬 Contact
 
-For business, commercial, cloud, enterprise, or contract use, contact TCDOVERLORD for written permission and contract terms.
+**TCDOVERLORD**
+
+🌐 GitHub
+
+https://github.com/tcdoverlord
+
+---
+
+# 🛡️ Ownership
+
+This license **does not transfer ownership** of the software.
+
+The following remain the exclusive property of **TCDOVERLORD**:
+
+- 💻 Source code
+- 📄 Documentation
+- 🎨 Graphics
+- 🖼️ Images
+- 🧩 Scripts
+- 🏷️ Branding
+- 📝 Logos
+- 📚 Project documentation
+- 🧠 Intellectual property
+
+unless otherwise stated.
+
+---
+
+# ⚠️ Disclaimer
+
+THIS SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, LIABILITY, OR OTHER LOSS ARISING FROM THE USE OF THIS SOFTWARE.
+
+---
+
+# 🤝 Acceptance
+
+By downloading, copying, modifying, compiling, running, or otherwise using this software, you acknowledge that you have read, understood, and agree to the terms of the **TCDOVERLORD Personal Learning License (TPLL)**.
+
+---
+
+# ❤️ Thank You
+
+Thank you for respecting the time, effort, and passion invested into this project.
+
+If this software helped you learn something new, that's exactly what the **TPLL** was created for.
+
+⭐ If you enjoy the project, consider starring the repository on GitHub.
