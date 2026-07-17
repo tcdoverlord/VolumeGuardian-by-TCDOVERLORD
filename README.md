@@ -110,13 +110,23 @@ VolumeGuardian simply protects the decision you've already made.
 
 # License
 
-VolumeGuardian is released under a custom **Personal Use and Contribution License**.
+This project is licensed under the **TCDOVERLORD Personal Learning License (TPLL) v1.0**.
 
-Personal use is allowed.
+This project is intended to support:
 
-Contributions to the project are welcome.
+- 📚 Personal learning
+- 🎓 Educational use
+- 🧪 Research and experimentation
+- 💻 Private, non-commercial projects
 
-Business, commercial, enterprise, hosted, cloud, managed-service, resale, or paid use requires written contract permission from **TCDOVERLORD**.
+You are welcome to study, modify, and experiment with the source code for your own personal or educational purposes.
 
-See [LICENSE.md](LICENSE.md) for full terms.
+Commercial use—including resale, redistribution, business integration, SaaS offerings, consulting use, enterprise deployment, or inclusion in commercial products—is **not permitted** without prior written permission from the copyright owner.
 
+For commercial licensing inquiries, please contact:
+
+**TCDOVERLORD**
+
+GitHub: https://github.com/tcdoverlord
+
+See the [LICENSE](LICENSE) file for the complete license terms.
